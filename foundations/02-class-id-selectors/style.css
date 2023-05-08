@@ -2,20 +2,20 @@
 
 .odd {
     background-color: #e9a7a7;
-    font-size: 20px;
+    font-family: "Verdana", "DejaVu Sana", sans-serif;
 }
 
 .three {
-    font-size: 36px;
+    font-size: 24px;
 }
 
 #two {
-    font-size:50px;
+    font-size:36px;
     color:#3333ff;
 }
 
 #four {
     background-color:#66ff99;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 24px;
 }
