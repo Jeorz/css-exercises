@@ -19,3 +19,7 @@
     font-weight: bold;
     font-size: 24px;
 }
+
+/* After looking at solutions, the way that did it was fine.
+   They just name the class for three "adjust-font-size" so that it could be
+   reused for four */
