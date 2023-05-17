@@ -13,6 +13,13 @@ img {
   font-weight: 900;
 }
 
+.flexbox{
+  margin-top: 32px;
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
 .text{
   max-width: 200px
 }
