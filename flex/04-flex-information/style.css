@@ -13,11 +13,6 @@ img {
   font-weight: 900;
 }
 
-.column{
-  display: flex
-  flex-direction: column;
-}
-
 .text{
   max-width: 200px
 }
