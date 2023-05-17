@@ -14,12 +14,13 @@ img {
 }
 
 .column{
-  display: flex
+  display: flex;
   flex-direction: column;
 }
 
 .plants{
-  display: flex
+  display: flex;
+  justify-content: center;
 }
 
 /* do not edit this footer */
