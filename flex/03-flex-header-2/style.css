@@ -62,3 +62,6 @@ ul {
 li {
   padding: inherit;
 }
+
+/* I added a whole bunch of tag selectors when they made new classes for
+   which would have been cleaner */
