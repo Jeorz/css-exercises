@@ -34,11 +34,22 @@ ul {
   margin: 0;
   padding: 0;
   display: flex;
+  gap: 16px;
+}
+
+li a {
+  color: #404040;
+  text-decoration-line: none;
 }
 
 .header, .footer {
   display: flex;
   justify-content: space-between;
+  padding: 16px;
+}
+
+.footer {
+  background-color: #eeeeee;
 }
 
 .content{
