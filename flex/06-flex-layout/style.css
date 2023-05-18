@@ -8,7 +8,6 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  align-items: center;
 }
 
 img {
@@ -40,4 +39,8 @@ ul {
 .header, .footer {
   display: flex;
   justify-content: space-between;
+}
+
+.content{
+  align-self: center;
 }
