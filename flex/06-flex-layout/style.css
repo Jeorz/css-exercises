@@ -60,3 +60,10 @@ li a {
   align-items: center;
   gap: 5px;
 }
+
+/* The other part where I deviate from the solution is the method used to
+   center the content in the middle of the screen. */
+/* I use justify-content: space-between; to put the content in the middle and
+   then an align-self: center;*/
+/* They use a flex-grow: 1; on the content and an justify-content: center; to
+   force it into the center. */
