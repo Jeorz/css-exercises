@@ -8,6 +8,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  align-items: center;
 }
 
 img {
@@ -34,4 +35,9 @@ ul {
   margin: 0;
   padding: 0;
   display: flex;
+}
+
+.header, .footer {
+  display: flex;
+  justify-content: space-between;
 }
